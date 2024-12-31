@@ -1,0 +1,1 @@
+poetry run qt6-tools.exe designer
